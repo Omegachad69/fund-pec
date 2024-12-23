@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678486231444",
+    "project_id": "fundpec-90090",
+    "storage_bucket": "fundpec-90090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678486231444:android:df954b4c115dfc8274a781",
+        "android_client_info": {
+          "package_name": "com.example.blogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1ABeILltWT7av6Jr9fN0o0urLukSILA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678486231444:android:1cf96b8975a5ac5874a781",
+        "android_client_info": {
+          "package_name": "com.example.fundpec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1ABeILltWT7av6Jr9fN0o0urLukSILA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
